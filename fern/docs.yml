@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
 
 instances:
-  - url: plantstore.docs.buildwithfern.com # update this to {yourorg}.docs.buildwithfern.com
+  - url: alec-a829f198-deba-4f86-8fc3-701a016e2b7d.docs.buildwithfern.com # update this to {yourorg}.docs.buildwithfern.com
     # custom-domain: plantstore.dev # specify your custom domain when you are ready to go live
 
 ai-search:
